@@ -26,3 +26,4 @@ replay_pid*
 production
 logs
 *.iml
+auto-service-management-cli.iml
