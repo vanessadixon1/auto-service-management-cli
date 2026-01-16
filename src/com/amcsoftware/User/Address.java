@@ -1,4 +1,4 @@
-package src.User;
+package com.amcsoftware.User;
 
 import java.util.Objects;
 

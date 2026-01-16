@@ -1,4 +1,4 @@
-package src.Car;
+package com.amcsoftware.Car;
 
 public enum CarTransmission {
     ELECTRIC,

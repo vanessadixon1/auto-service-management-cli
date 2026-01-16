@@ -1,4 +1,4 @@
-package src.Car;
+package com.amcsoftware.Car;
 
 import java.math.BigDecimal;
 import java.util.Objects;

@@ -1,6 +1,4 @@
-package src.User;
-
-import src.Car.Car;
+package com.amcsoftware.User;
 
 import java.util.UUID;
 

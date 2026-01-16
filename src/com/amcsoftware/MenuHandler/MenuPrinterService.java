@@ -1,4 +1,4 @@
-package src.MenuHandler;
+package com.amcsoftware.MenuHandler;
 
 public class MenuPrinterService {
     public static void displayMenu() {
